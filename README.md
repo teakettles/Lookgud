@@ -20,8 +20,8 @@ INSTRUCTIONS
 =========================
 Download the APK file
 =========================
-- Click on the Download Zip button above.
-- Extract the app-release.apk file from the Zip file to a location of your
+- Click on the Download ZIP button above.
+- Extract the app-release.apk file from the ZIP file to a location of your
   choosing.
 
 =========================
