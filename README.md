@@ -15,8 +15,14 @@ Disclaimers: Currently, the application is only *smartphone* deployable.
 
 
 INSTRUCTIONS
-
-1. Using an Android Device
+=========================
+Download the APK file
+=========================
+- Click on the app-release.apk file above.
+- Wait for it to download and the follow the instructions below.
+=========================
+Using an Android Device
+=========================
 - Enable Unknown Sources in your phone's security settings.
   - Go to: 
   - Settings -> Security -> Unknown sources 
@@ -28,7 +34,7 @@ INSTRUCTIONS
 - Copy the APK file 
   - On the computer open the File Explorer tool (like Windows Explorer on 
       Windows and Finder on Mac), locate the phone and copy the APK file to 
-      the phone's memory (Locate app-release.apk in the USB drive). 
+      the phone's memory (Locate app-release.apk in tyour Downloads folder). 
 - Use a File Manager app to open the APK file 
   - If you don't have one, install the Asus File Manager or one of your choosing:
       (https://play.google.com/store/apps/details?id=com.asus.filemanager&hl=en)
