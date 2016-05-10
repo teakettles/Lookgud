@@ -1,25 +1,29 @@
-Application: Lookgud
+Application:
+Lookgud
 
-Description: Built for Future Business Leaders of America - Phi Beta Lambda
-	     Mobile Application Development
+Description:
+Built for Future Business Leaders of America - Phi Beta Lambda Mobile Application Development
 
-Created by:  Phimlamphay Dimanh
-	     Bethany Salgado
+Created by:
+Phimlamphay Dimanh
+Bethany Salgado
 
-	     University of Texas at Dallas
+University of Texas at Dallas
 
+Disclaimers: 
+Currently, the application is only *smartphone* deployable.
 
-Disclaimers: Currently, the application is only *smartphone* deployable.
-	     The application is a .apk file that can be used on Android phones
-	     or an Android emulator (such as in Android Studio).
+The application is a .apk file that can be used on Android phones or an Android emulator (such as in Android Studio).
 
 
 INSTRUCTIONS
 =========================
 Download the APK file
 =========================
-- Click on the app-release.apk file above.
-- Wait for it to download and the follow the instructions below.
+- Click on the Download Zip button above.
+- Extract the app-release.apk file from the Zip file to a location of your
+  choosing.
+
 =========================
 Using an Android Device
 =========================
@@ -34,7 +38,7 @@ Using an Android Device
 - Copy the APK file 
   - On the computer open the File Explorer tool (like Windows Explorer on 
       Windows and Finder on Mac), locate the phone and copy the APK file to 
-      the phone's memory (Locate app-release.apk in tyour Downloads folder). 
+      the phone's memory (Locate the app-release.apk file extracted earlier). 
 - Use a File Manager app to open the APK file 
   - If you don't have one, install the Asus File Manager or one of your choosing:
       (https://play.google.com/store/apps/details?id=com.asus.filemanager&hl=en)
